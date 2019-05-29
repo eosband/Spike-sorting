@@ -3,7 +3,7 @@
 
 *By Eric Osband*
 
-<img src="attachment:brain2.png" width="300">
+![image](brain2.png)
 
 ## Table of contents
 <font size = "+1.5"><ul style="list-style-type:upper-roman;">
